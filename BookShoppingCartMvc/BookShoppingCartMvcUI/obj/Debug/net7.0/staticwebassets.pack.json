@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BookShoppingCartMvcUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookShoppingCartMvcUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\NoImage.jpg",
+      "PackagePath": "staticwebassets\\images\\NoImage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\dracula.jpg",
+      "PackagePath": "staticwebassets\\images\\dracula.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\foundation.jpg",
+      "PackagePath": "staticwebassets\\images\\foundation.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\frankenstein.jpg",
+      "PackagePath": "staticwebassets\\images\\frankenstein.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\hobbit.jpg",
+      "PackagePath": "staticwebassets\\images\\hobbit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\intothewild.jpg",
+      "PackagePath": "staticwebassets\\images\\intothewild.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\odyssey.jpg",
+      "PackagePath": "staticwebassets\\images\\odyssey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\outlander.jpg",
+      "PackagePath": "staticwebassets\\images\\outlander.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\sevendaysinjune.jpg",
+      "PackagePath": "staticwebassets\\images\\sevendaysinjune.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\thecallofthewild.jpg",
+      "PackagePath": "staticwebassets\\images\\thecallofthewild.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SAMSUNG\\Desktop\\aleynaerdeve_201816018\\BookShoppingCartMvc\\BookShoppingCartMvcUI\\wwwroot\\images\\treasureisland.jpg",
+      "PackagePath": "staticwebassets\\images\\treasureisland.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BookShoppingCartMvcUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BookShoppingCartMvcUI.props",
+      "PackagePath": "build\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildMultiTargeting\\BookShoppingCartMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BookShoppingCartMvcUI.props",
+      "PackagePath": "buildTransitive\\BookShoppingCartMvcUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
